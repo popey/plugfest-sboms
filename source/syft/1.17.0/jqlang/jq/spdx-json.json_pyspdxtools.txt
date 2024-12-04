@@ -1,0 +1,9 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/decnum.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/manpage.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/oniguruma.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/scanbuild.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/valgrind.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/website.yml
+file name must not be an absolute path starting with "/", but is: /docs/Pipfile.lock

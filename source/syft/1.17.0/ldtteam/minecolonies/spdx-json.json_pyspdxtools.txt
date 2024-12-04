@@ -1,0 +1,5 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/build.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/translation.yml
+file name must not be an absolute path starting with "/", but is: /gradle/wrapper/gradle-wrapper.jar

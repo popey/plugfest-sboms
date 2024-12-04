@@ -1,0 +1,4 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/docs.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/scorecards.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/tests.yml

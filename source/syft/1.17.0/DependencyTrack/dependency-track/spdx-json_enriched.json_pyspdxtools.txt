@@ -1,0 +1,10 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/_meta-build.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci-build.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci-publish.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci-release.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci-test-pr-coverage.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/ci-test.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/dependency-review.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/lock.yaml
+file name must not be an absolute path starting with "/", but is: /pom.xml

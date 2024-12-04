@@ -1,0 +1,4 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/CICD.yml
+file name must not be an absolute path starting with "/", but is: /Cargo.lock
+file name must not be an absolute path starting with "/", but is: /tests/examples/hello_world_elf64

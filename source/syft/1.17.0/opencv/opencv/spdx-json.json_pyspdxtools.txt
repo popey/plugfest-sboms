@@ -1,0 +1,13 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/PR-4.x.yaml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/arm64-build-checks.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/lint_python.yml
+file name must not be an absolute path starting with "/", but is: /doc/pattern_tools/test_requirements.txt
+file name must not be an absolute path starting with "/", but is: /modules/java/test/pure_test/lib/junit-4.11.jar
+file name must not be an absolute path starting with "/", but is: /platforms/android/aar-template/gradle/wrapper/gradle-wrapper.jar
+file name must not be an absolute path starting with "/", but is: /platforms/android/gradle-wrapper/gradle/wrapper/gradle-wrapper.jar
+file name must not be an absolute path starting with "/", but is: /platforms/maven/opencv-it/pom.xml
+file name must not be an absolute path starting with "/", but is: /platforms/maven/opencv/pom.xml
+file name must not be an absolute path starting with "/", but is: /platforms/maven/pom.xml
+file name must not be an absolute path starting with "/", but is: /samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+file name must not be an absolute path starting with "/", but is: /samples/java/sbt/sbt/sbt-launch.jar

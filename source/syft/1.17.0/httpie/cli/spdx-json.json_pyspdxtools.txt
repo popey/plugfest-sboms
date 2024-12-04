@@ -1,0 +1,15 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/benchmark.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/code-style.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/content.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/coverage.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/docs-check-markdown.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release-brew.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release-choco.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release-linux-standalone.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release-pypi.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/release-snap.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/stale.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/test-package-linux-snap.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/test-package-mac-brew.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/tests.yml

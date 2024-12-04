@@ -1,0 +1,5 @@
+ERROR:root:The document is invalid. The following issues have been found:
+file name must not be an absolute path starting with "/", but is: /.github/workflows/codeql.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/gin.yml
+file name must not be an absolute path starting with "/", but is: /.github/workflows/goreleaser.yml
+file name must not be an absolute path starting with "/", but is: /go.mod
