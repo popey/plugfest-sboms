@@ -1,4 +1,4 @@
-| Type | Project | Tool | Ver | File | Utility| Result |
+| Type | Project | Tool | Ver | SBOM | Validator | Result |
 | - | - | - | - | - | - | - |
 | source | dependency-track | syft | 1.17.0 | [spdx-json.json](./source/syft/1.17.0/DependencyTrack/dependency-track/spdx-json.json) | [pyspdxtools](./source/syft/1.17.0/DependencyTrack/dependency-track/spdx-json.json_pyspdxtools.txt) | 1 |
 | source | dependency-track | syft | 1.17.0 | [spdx-json.json](./source/syft/1.17.0/DependencyTrack/dependency-track/spdx-json.json) | [sbom-utility](./source/syft/1.17.0/DependencyTrack/dependency-track/spdx-json.json_sbom_utility.txt) | 0 |
