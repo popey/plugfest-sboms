@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: dependencytrack/frontend
-DocumentNamespace: https://anchore.com/syft/image/dependencytrack/frontend-d9713965-c956-4f3b-87f0-d36d317160a4
+DocumentNamespace: https://anchore.com/syft/image/dependencytrack/frontend-b43cdc44-12eb-4095-b60a-e3805d7c1f31
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T12:11:25Z
+Created: 2024-12-13T13:22:50Z
 
 ##### Unpackaged files
 

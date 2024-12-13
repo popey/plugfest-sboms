@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: dependencytrack/apiserver
-DocumentNamespace: https://anchore.com/syft/image/dependencytrack/apiserver-2d79f365-ed77-4d47-a94c-3727d2931014
+DocumentNamespace: https://anchore.com/syft/image/dependencytrack/apiserver-625ac3fc-cfe6-4d94-addb-c14f38034696
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T12:10:14Z
+Created: 2024-12-13T13:21:39Z
 
 ##### Unpackaged files
 

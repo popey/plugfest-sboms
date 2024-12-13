@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "./ldtteam/minecolonies",
-  "documentNamespace": "https://anchore.com/syft/dir/ldtteam/minecolonies-2dcc15dc-87bf-4f5d-985e-a9d4c335a8eb",
+  "documentNamespace": "https://anchore.com/syft/dir/ldtteam/minecolonies-5ce8be9e-11de-400c-9891-3e3ed27675dd",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-13T12:13:42Z"
+    "created": "2024-12-13T13:25:08Z"
   },
   "packages": [
     {
@@ -246,7 +246,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "0295cdd0aa44b9dfe51ca2681f9c892d83f24a8d"
+          "checksumValue": "e06ae8586bb5b94c08c15c6e6e4b75f7903cf001"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/fg_cache/net/minecraftforge/forge/1.20.1-47.1.3_mapped_official_1.20.1/forge-1.20.1-47.1.3_mapped_official_1.20.1.jar",
@@ -420,7 +420,7 @@
     },
     {
       "name": "minecolonies",
-      "SPDXID": "SPDXRef-Package-java-archive-minecolonies-1d1dc957798eaa78",
+      "SPDXID": "SPDXRef-Package-java-archive-minecolonies-7794401925c5729e",
       "versionInfo": "1.20.1-0.0.1-LOCAL-alpha",
       "supplier": "Organization: ldtteam",
       "originator": "Organization: ldtteam",
@@ -429,7 +429,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "checksumValue": "e6a8226216ec3b1922ad2a69a060e33111685692"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/libs/minecolonies-1.20.1-0.0.1-LOCAL-alpha.jar",
@@ -464,7 +464,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "98b92ede3f6934d77316dd2901c178bdf8934ffe"
+          "checksumValue": "752bcab1bd0c51ad3428fe2b87d4f0e54e47c650"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/libs/minecolonies-1.20.1-0.0.1-LOCAL-alpha-javadoc.jar",
@@ -486,7 +486,7 @@
     },
     {
       "name": "minecolonies",
-      "SPDXID": "SPDXRef-Package-java-archive-minecolonies-1b1ca31987af0874",
+      "SPDXID": "SPDXRef-Package-java-archive-minecolonies-d8e6db321d348d1d",
       "versionInfo": "1.20.1-0.0.1-LOCAL-alpha-slim",
       "supplier": "Organization: ldtteam",
       "originator": "Organization: ldtteam",
@@ -495,7 +495,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "checksumValue": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/libs/minecolonies-1.20.1-0.0.1-LOCAL-alpha-slim.jar",
@@ -530,7 +530,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "575f953f3bf019836c65e4cd49959c6b66c756d5"
+          "checksumValue": "8cbdaed965794abc50e242e965573b35268ff606"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/libs/minecolonies-1.20.1-0.0.1-LOCAL-alpha-sources.jar",
@@ -552,7 +552,7 @@
     },
     {
       "name": "output",
-      "SPDXID": "SPDXRef-Package-java-archive-output-0aca25c3d9c710f0",
+      "SPDXID": "SPDXRef-Package-java-archive-output-9829bd938836bcc7",
       "versionInfo": "1.20.1-0.0.1-LOCAL-alpha",
       "supplier": "Organization: ldtteam",
       "originator": "Organization: ldtteam",
@@ -561,7 +561,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "checksumValue": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/reobfJar/output.jar",
@@ -588,7 +588,7 @@
     },
     {
       "name": "output",
-      "SPDXID": "SPDXRef-Package-java-archive-output-8ef4fb771d1e76fc",
+      "SPDXID": "SPDXRef-Package-java-archive-output-32b1dbdba246a43d",
       "versionInfo": "1.20.1-0.0.1-LOCAL-alpha",
       "supplier": "Organization: ldtteam",
       "originator": "Organization: ldtteam",
@@ -597,7 +597,7 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "checksumValue": "e6a8226216ec3b1922ad2a69a060e33111685692"
         }
       ],
       "sourceInfo": "acquired package info from installed java archive: /build/reobfShadowJar/output.jar",
@@ -786,11 +786,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "0295cdd0aa44b9dfe51ca2681f9c892d83f24a8d"
+          "checksumValue": "e06ae8586bb5b94c08c15c6e6e4b75f7903cf001"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "b4ab1b94dd37acd797bf087cdb2b9a8422186d12e64875fefa13ab1ed228c917"
+          "checksumValue": "8cc37233963481c50a1c6af93d0f5e3965191eeb7371866e06da5790c2fa2467"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -809,11 +809,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "98b92ede3f6934d77316dd2901c178bdf8934ffe"
+          "checksumValue": "752bcab1bd0c51ad3428fe2b87d4f0e54e47c650"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "5e475c525bd7cd3e728998237b634cfd2dfcea97b7ef780fca0aec3fa56a9908"
+          "checksumValue": "1f8044fb7da8b1329880ad51513e17e32378cd383a4fb43d2c37eab19ddb83e4"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -831,11 +831,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "checksumValue": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "29fd3338b0d874d3fef37123743f9b6799f4ebdab5fe205679913f7d296b52fe"
+          "checksumValue": "fea6e858d706709129aa66902ff412c4ab82dacf2d2be2621832f38b25724678"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -854,11 +854,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "575f953f3bf019836c65e4cd49959c6b66c756d5"
+          "checksumValue": "8cbdaed965794abc50e242e965573b35268ff606"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "b34eeb3d59b451233ee7a74919d060ccbc00d408c258908772c64cab74819853"
+          "checksumValue": "35e4531c9b1b168740ad9cd2b95c2af722c0a408d12f7bf71ae963a851a68203"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -876,11 +876,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "checksumValue": "e6a8226216ec3b1922ad2a69a060e33111685692"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "122fb194f640ddcd439f40733e5300a129b11eb4c34ea8360be23e2d52febad0"
+          "checksumValue": "b7d9b28cc80a8634ab1660dc6e79dc1692aaa7905f43111854f29d209385dfd3"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -898,11 +898,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "checksumValue": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "29fd3338b0d874d3fef37123743f9b6799f4ebdab5fe205679913f7d296b52fe"
+          "checksumValue": "fea6e858d706709129aa66902ff412c4ab82dacf2d2be2621832f38b25724678"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -920,11 +920,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "checksumValue": "e6a8226216ec3b1922ad2a69a060e33111685692"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "122fb194f640ddcd439f40733e5300a129b11eb4c34ea8360be23e2d52febad0"
+          "checksumValue": "b7d9b28cc80a8634ab1660dc6e79dc1692aaa7905f43111854f29d209385dfd3"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -959,26 +959,14 @@
   ],
   "relationships": [
     {
-      "spdxElementId": "SPDXRef-Package-java-archive-output-0aca25c3d9c710f0",
-      "relatedSpdxElement": "SPDXRef-File-build-reobfJar-output.jar-9ef18a5049b7cfed",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-java-archive-minecolonies-1b1ca31987af0874",
-      "relatedSpdxElement": "SPDXRef-File-...minecolonies-1.20.1-0.0.1-LOCAL-alpha-slim.jar-f0e86268990229af",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-java-archive-minecolonies-1d1dc957798eaa78",
-      "relatedSpdxElement": "SPDXRef-File-...minecolonies-1.20.1-0.0.1-LOCAL-alpha.jar-1e38448b80dba881",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
       "spdxElementId": "SPDXRef-Package-github-action-actions-checkout-2784dfd778b28c40",
       "relatedSpdxElement": "SPDXRef-File-.github-workflows-translation.yml-27f466d8fb81863e",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-java-archive-output-32b1dbdba246a43d",
+      "relatedSpdxElement": "SPDXRef-File-build-reobfShadowJar-output.jar-a64c23565cbc0177",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
@@ -991,6 +979,12 @@
     {
       "spdxElementId": "SPDXRef-Package-java-archive-forge-4cfbeb0ddf491666",
       "relatedSpdxElement": "SPDXRef-File-...forge-1.20.1-47.1.3-srg.jar-618db56e9d57bab7",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-java-archive-minecolonies-7794401925c5729e",
+      "relatedSpdxElement": "SPDXRef-File-...minecolonies-1.20.1-0.0.1-LOCAL-alpha.jar-1e38448b80dba881",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
@@ -1013,14 +1007,14 @@
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
     {
-      "spdxElementId": "SPDXRef-Package-java-archive-output-8ef4fb771d1e76fc",
-      "relatedSpdxElement": "SPDXRef-File-build-reobfShadowJar-output.jar-a64c23565cbc0177",
+      "spdxElementId": "SPDXRef-Package-github-action-workflow-ldtteam-operapublicacreator-.github-workflows-gradle.prerelease.yaml-93943d5d84b47a49",
+      "relatedSpdxElement": "SPDXRef-File-.github-workflows-build.yaml-2f60db276a7a09af",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
     {
-      "spdxElementId": "SPDXRef-Package-github-action-workflow-ldtteam-operapublicacreator-.github-workflows-gradle.prerelease.yaml-93943d5d84b47a49",
-      "relatedSpdxElement": "SPDXRef-File-.github-workflows-build.yaml-2f60db276a7a09af",
+      "spdxElementId": "SPDXRef-Package-java-archive-output-9829bd938836bcc7",
+      "relatedSpdxElement": "SPDXRef-File-build-reobfJar-output.jar-9ef18a5049b7cfed",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
@@ -1039,6 +1033,12 @@
     {
       "spdxElementId": "SPDXRef-Package-github-action-ad-m-github-push-action-ce03eec74fa4bd6a",
       "relatedSpdxElement": "SPDXRef-File-.github-workflows-translation.yml-27f466d8fb81863e",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-java-archive-minecolonies-d8e6db321d348d1d",
+      "relatedSpdxElement": "SPDXRef-File-...minecolonies-1.20.1-0.0.1-LOCAL-alpha-slim.jar-f0e86268990229af",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
@@ -1095,7 +1095,7 @@
     },
     {
       "spdxElementId": "SPDXRef-DocumentRoot-Directory-.-ldtteam-minecolonies",
-      "relatedSpdxElement": "SPDXRef-Package-java-archive-minecolonies-1d1dc957798eaa78",
+      "relatedSpdxElement": "SPDXRef-Package-java-archive-minecolonies-7794401925c5729e",
       "relationshipType": "CONTAINS"
     },
     {
@@ -1105,7 +1105,7 @@
     },
     {
       "spdxElementId": "SPDXRef-DocumentRoot-Directory-.-ldtteam-minecolonies",
-      "relatedSpdxElement": "SPDXRef-Package-java-archive-minecolonies-1b1ca31987af0874",
+      "relatedSpdxElement": "SPDXRef-Package-java-archive-minecolonies-d8e6db321d348d1d",
       "relationshipType": "CONTAINS"
     },
     {
@@ -1115,12 +1115,12 @@
     },
     {
       "spdxElementId": "SPDXRef-DocumentRoot-Directory-.-ldtteam-minecolonies",
-      "relatedSpdxElement": "SPDXRef-Package-java-archive-output-0aca25c3d9c710f0",
+      "relatedSpdxElement": "SPDXRef-Package-java-archive-output-9829bd938836bcc7",
       "relationshipType": "CONTAINS"
     },
     {
       "spdxElementId": "SPDXRef-DocumentRoot-Directory-.-ldtteam-minecolonies",
-      "relatedSpdxElement": "SPDXRef-Package-java-archive-output-8ef4fb771d1e76fc",
+      "relatedSpdxElement": "SPDXRef-Package-java-archive-output-32b1dbdba246a43d",
       "relationshipType": "CONTAINS"
     },
     {

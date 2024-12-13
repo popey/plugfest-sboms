@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: /home/alan/Work/Anchore/plugfest/repos/DependencyTrack/dependency-track
-DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/DependencyTrack/dependency-track-4c5cad38-f7a3-40f2-8a6a-e1e5493f8eed
+DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/DependencyTrack/dependency-track-be3087df-a1e3-4f47-af87-12577d47a70f
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T11:57:33Z
+Created: 2024-12-13T13:06:02Z
 
 ##### Unpackaged files
 

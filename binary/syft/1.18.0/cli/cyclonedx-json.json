@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.6",
-  "serialNumber": "urn:uuid:99bcd16b-9b94-4d96-ba5d-be570bbfcc71",
+  "serialNumber": "urn:uuid:7669b0ac-fd58-4c86-9150-ee875fe0bb09",
   "version": 1,
   "metadata": {
-    "timestamp": "2024-12-13T13:11:45+01:00",
+    "timestamp": "2024-12-13T14:23:11+01:00",
     "tools": {
       "components": [
         {
@@ -1830,7 +1830,7 @@
       ]
     },
     {
-      "bom-ref": "pkg:pypi/httpie@3.2.3?package-id=7dd5511adb1bf45f",
+      "bom-ref": "pkg:pypi/httpie@3.2.3?package-id=c583b282527a5ac4",
       "type": "library",
       "author": "Jakub Roztocil <jakub@roztocil.co>",
       "name": "httpie",
@@ -7225,7 +7225,7 @@
   ],
   "dependencies": [
     {
-      "ref": "pkg:pypi/httpie@3.2.3?package-id=7dd5511adb1bf45f",
+      "ref": "pkg:pypi/httpie@3.2.3?package-id=c583b282527a5ac4",
       "dependsOn": [
         "pkg:pypi/pip@24.3.1?package-id=01e9e0c52656709e",
         "pkg:pypi/setuptools@75.6.0?package-id=db1896fcc9a0b97c",

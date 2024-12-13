@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: /home/alan/Work/Anchore/plugfest/repos/sharkdp/hexyl
-DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/sharkdp/hexyl-61362f87-7015-4b8e-8f81-c5244fed1d9e
+DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/sharkdp/hexyl-5952eb8f-f9dc-4ea3-a07b-481ac594a2f0
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T12:00:45Z
+Created: 2024-12-13T13:09:15Z
 
 ##### Unpackaged files
 

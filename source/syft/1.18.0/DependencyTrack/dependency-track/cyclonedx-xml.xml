@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bom xmlns="http://cyclonedx.org/schema/bom/1.6" serialNumber="urn:uuid:98199d37-9a49-4aba-b554-03cc6961047b" version="1">
+<bom xmlns="http://cyclonedx.org/schema/bom/1.6" serialNumber="urn:uuid:468cffee-171c-4709-8a78-7a57be7cead1" version="1">
   <metadata>
-    <timestamp>2024-12-13T12:57:21+01:00</timestamp>
+    <timestamp>2024-12-13T14:05:50+01:00</timestamp>
     <tools>
       <components>
         <component type="application">

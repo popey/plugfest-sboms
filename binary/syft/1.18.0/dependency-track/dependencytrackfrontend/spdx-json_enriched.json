@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "dependencytrack/frontend",
-  "documentNamespace": "https://anchore.com/syft/image/dependencytrack/frontend-a405bfcf-35e6-4146-96ef-cc1b2f5ee84e",
+  "documentNamespace": "https://anchore.com/syft/image/dependencytrack/frontend-226f63aa-07da-4a36-a56a-133cd390e280",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-13T12:11:22Z"
+    "created": "2024-12-13T13:22:47Z"
   },
   "packages": [
     {

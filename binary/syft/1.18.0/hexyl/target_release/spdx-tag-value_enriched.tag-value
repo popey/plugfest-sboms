@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: ./sharkdp/hexyl
-DocumentNamespace: https://anchore.com/syft/dir/sharkdp/hexyl-054f5791-4cb2-47cb-8cdd-27d227ad9771
+DocumentNamespace: https://anchore.com/syft/dir/sharkdp/hexyl-7134812a-a08e-4431-8de1-a3fa86559d23
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T12:15:57Z
+Created: 2024-12-13T13:27:28Z
 
 ##### Unpackaged files
 

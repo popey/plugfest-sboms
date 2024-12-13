@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: ./httpie/cli
-DocumentNamespace: https://anchore.com/syft/dir/httpie/cli-666cf78c-f2bf-493b-a809-11539539b970
+DocumentNamespace: https://anchore.com/syft/dir/httpie/cli-5665066c-8711-4c59-aa9d-c8a673e38424
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-13T12:11:59Z
+Created: 2024-12-13T13:23:25Z
 
 ##### Unpackaged files
 
@@ -353,8 +353,8 @@ FileCopyrightText: NOASSERTION
 FileName: .venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/RECORD
 SPDXID: SPDXRef-File-...httpie-3.2.3.dist-info-RECORD-e05c45ba44c3bcf2
 FileType: TEXT
-FileChecksum: SHA1: 2f73b0ec461058c7ffc4e8e9c67f6b98376fb7ba
-FileChecksum: SHA256: e3dc467890976148b8e626536a92eebe054d9109a93b355dbde81437693f01ec
+FileChecksum: SHA1: 5fefd58c35839d0cebba50c4080b8d2946f273f7
+FileChecksum: SHA256: 5311fe334b80c371ed691d51383dd04f77890cbbca0fe6c30cbeabd78f17bcab
 LicenseConcluded: NOASSERTION
 LicenseInfoInFile: NOASSERTION
 FileCopyrightText: NOASSERTION
@@ -2774,14 +2774,13 @@ ExternalRef: PACKAGE-MANAGER purl pkg:pypi/defusedxml@0.7.1
 ##### Package: httpie
 
 PackageName: httpie
-SPDXID: SPDXRef-Package-python-httpie-7dd5511adb1bf45f
+SPDXID: SPDXRef-Package-python-httpie-b5a193b35cdfaa9c
 PackageVersion: 3.2.3
 PackageSupplier: Person: Jakub Roztocil (jakub@roztocil.co)
 PackageOriginator: Person: Jakub Roztocil (jakub@roztocil.co)
 PackageDownloadLocation: NOASSERTION
-FilesAnalyzed: true
-PackageVerificationCode: 90c864fb0eecdccc60e620faa11da01d1454084a
-PackageSourceInfo: acquired package info from installed python package manifest file: /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/METADATA, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/RECORD, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/direct_url.json, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/top_level.txt
+FilesAnalyzed: false
+PackageSourceInfo: acquired package info from installed python package manifest file: /httpie.egg-info/PKG-INFO, /httpie.egg-info/top_level.txt
 PackageLicenseConcluded: NOASSERTION
 PackageLicenseDeclared: LicenseRef-BSD
 PackageCopyrightText: NOASSERTION
@@ -2820,13 +2819,14 @@ ExternalRef: PACKAGE-MANAGER purl pkg:pypi/httpie@3.2.3
 ##### Package: httpie
 
 PackageName: httpie
-SPDXID: SPDXRef-Package-python-httpie-b5a193b35cdfaa9c
+SPDXID: SPDXRef-Package-python-httpie-c583b282527a5ac4
 PackageVersion: 3.2.3
 PackageSupplier: Person: Jakub Roztocil (jakub@roztocil.co)
 PackageOriginator: Person: Jakub Roztocil (jakub@roztocil.co)
 PackageDownloadLocation: NOASSERTION
-FilesAnalyzed: false
-PackageSourceInfo: acquired package info from installed python package manifest file: /httpie.egg-info/PKG-INFO, /httpie.egg-info/top_level.txt
+FilesAnalyzed: true
+PackageVerificationCode: 90c864fb0eecdccc60e620faa11da01d1454084a
+PackageSourceInfo: acquired package info from installed python package manifest file: /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/METADATA, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/RECORD, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/direct_url.json, /.venv/lib/python3.9/site-packages/httpie-3.2.3.dist-info/top_level.txt
 PackageLicenseConcluded: NOASSERTION
 PackageLicenseDeclared: LicenseRef-BSD
 PackageCopyrightText: NOASSERTION
@@ -4170,85 +4170,85 @@ ExtractedText: UNKNOWN
 
 ##### Relationships
 
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-formatters---init--.py-0114659eec589b6c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-tasks-export-args.py-015f9554867b68a7
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie---init--.py-037a8c3822f60b4d
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-options.py-05110fde4e20b5b5
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli---init--.py-06ccd256853b890e
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-constants.py-09987e1237abd13f
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager---init--.py-0b4bbd4e67a071a4
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-formatters-json.py-0ef6066c5a88173c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-lexers-common.py-0fe5ecb65e0fb7e7
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-writer.py-101bd32ec2c2fa91
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-core.py-1202c52e4c40bd2c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-client.py-160d30fa38bb0b49
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-plugins-builtin.py-182486cbb92ea092
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-compat.py-1b29299ce3facfaf
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-requestitems.py-1d167c72c142cf6c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-internal---init--.py-1e7604e4f772c51e
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-rich-palette.py-1efa25d9ca706e3c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-lexers---init--.py-26501c7f5ca32b40
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-uploads.py-2820dbfdb0e2bd46
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cookies.py-2af41dc7c492dae1
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-downloads.py-2f22d8a6c38800ed
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-context.py-3276417199e00fd5
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-cli.py-347775b9af27d018
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-legacy---init--.py-36e41f7cb064aeca
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-utils.py-37b030d1a0c71049
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-nested-json---init--.py-3a6499b27b609070
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-rich-progress.py-4515fa2e09c96ba4
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-tasks-sessions.py-50238b291978d667
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-plugins-registry.py-5420bc9ea815cb8d
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-plugins-base.py-5886a4bfeb863675
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-lexers-json.py-619df15ca4656a65
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-nested-json-errors.py-6357f94a39c33d52
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-man-pages.py-669a955e4e117781
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-encoding.py-672ec0d8f04a162c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-plugins-manager.py-69254cc91fff26f4
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-models.py-75e3702ffd6620cd
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-...legacy-v3-2-0-session-header-format.py-779260a123ed7adc
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-internal---build-channel--.py-7bbda1ab3f8332a4
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-rich-help.py-7bf857d1c3410965
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-compat.py-7d9936d604437b2f
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-lexers-metadata.py-81cec91b083ccc49
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-plugins---init--.py-8e274f22d9b3ad49
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-models.py-8f3095ab60a5ba0e
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-adapters.py-934b4ebc898da5a4
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-sessions.py-942c396e133b68b3
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-argparser.py-942e5b940ebef97d
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-formatters-colors.py-97b4103e3df6280b
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-formatters-xml.py-a281d2b97529b4d8
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui---init--.py-a87095fbed871a82
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-internal-update-warnings.py-ad16efd8e806b785
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-rich-utils.py-b1c4dbd8ef00d13a
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-exceptions.py-b5431cd5427c0601
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-argtypes.py-b87b55a76d7e3442
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-tasks---init--.py-b9d21e3fac642237
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-nested-json-interpret.py-bb95fd928bde80b3
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager---main--.py-bc212b809cbe01e7
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-tasks-check-updates.py-bd8450019776c099
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-formatters-headers.py-c098c273cbeaabbd
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-nested-json-tokens.py-c96a1056f1dfc1e2
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-definition.py-cb0070bbebd84b18
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie---main--.py-cd17f3b0e3fd79a5
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-processing.py-ce3138f440d8c94c
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-...legacy-v3-1-0-session-cookie-format.py-cef1979ebf3e72db
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-internal-daemons.py-d1d29b30ea6bb200
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-ui-palette.py-d27ada036b3ea312
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-lexers-http.py-d43f61db404de1f9
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output---init--.py-d6954ebab06681a5
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-internal-daemon-runner.py-d8bc9260b03efbce
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-core.py-d956cec4bb6ab8ea
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-ssl-.py-df9b1a4428adf6d9
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-utils.py-e3d7991b3c62c306
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-manager-tasks-plugins.py-e4bde2a4a26a741d
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-dicts.py-e50f689783195c26
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-status.py-ed43eaeb707765b9
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-config.py-f28a8c7da66f5350
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-cli-nested-json-parse.py-f2eaf5c2530a97a6
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-utils.py-fcf70a1f5cc1cd06
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f CONTAINS SPDXRef-File-httpie-output-streams.py-febb93cd71476f20
-Relationship: SPDXRef-Package-python-pip-01e9e0c52656709e DEPENDENCY_OF SPDXRef-Package-python-httpie-7dd5511adb1bf45f
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-formatters---init--.py-0114659eec589b6c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-tasks-export-args.py-015f9554867b68a7
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie---init--.py-037a8c3822f60b4d
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-options.py-05110fde4e20b5b5
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli---init--.py-06ccd256853b890e
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-constants.py-09987e1237abd13f
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager---init--.py-0b4bbd4e67a071a4
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-formatters-json.py-0ef6066c5a88173c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-lexers-common.py-0fe5ecb65e0fb7e7
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-writer.py-101bd32ec2c2fa91
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-core.py-1202c52e4c40bd2c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-client.py-160d30fa38bb0b49
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-plugins-builtin.py-182486cbb92ea092
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-compat.py-1b29299ce3facfaf
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-requestitems.py-1d167c72c142cf6c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-internal---init--.py-1e7604e4f772c51e
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-rich-palette.py-1efa25d9ca706e3c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-lexers---init--.py-26501c7f5ca32b40
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-uploads.py-2820dbfdb0e2bd46
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cookies.py-2af41dc7c492dae1
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-downloads.py-2f22d8a6c38800ed
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-context.py-3276417199e00fd5
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-cli.py-347775b9af27d018
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-legacy---init--.py-36e41f7cb064aeca
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-utils.py-37b030d1a0c71049
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-nested-json---init--.py-3a6499b27b609070
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-rich-progress.py-4515fa2e09c96ba4
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-tasks-sessions.py-50238b291978d667
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-plugins-registry.py-5420bc9ea815cb8d
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-plugins-base.py-5886a4bfeb863675
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-lexers-json.py-619df15ca4656a65
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-nested-json-errors.py-6357f94a39c33d52
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-man-pages.py-669a955e4e117781
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-encoding.py-672ec0d8f04a162c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-plugins-manager.py-69254cc91fff26f4
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-models.py-75e3702ffd6620cd
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-...legacy-v3-2-0-session-header-format.py-779260a123ed7adc
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-internal---build-channel--.py-7bbda1ab3f8332a4
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-rich-help.py-7bf857d1c3410965
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-compat.py-7d9936d604437b2f
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-lexers-metadata.py-81cec91b083ccc49
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-plugins---init--.py-8e274f22d9b3ad49
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-models.py-8f3095ab60a5ba0e
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-adapters.py-934b4ebc898da5a4
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-sessions.py-942c396e133b68b3
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-argparser.py-942e5b940ebef97d
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-formatters-colors.py-97b4103e3df6280b
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-formatters-xml.py-a281d2b97529b4d8
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui---init--.py-a87095fbed871a82
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-internal-update-warnings.py-ad16efd8e806b785
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-rich-utils.py-b1c4dbd8ef00d13a
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-exceptions.py-b5431cd5427c0601
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-argtypes.py-b87b55a76d7e3442
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-tasks---init--.py-b9d21e3fac642237
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-nested-json-interpret.py-bb95fd928bde80b3
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager---main--.py-bc212b809cbe01e7
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-tasks-check-updates.py-bd8450019776c099
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-formatters-headers.py-c098c273cbeaabbd
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-nested-json-tokens.py-c96a1056f1dfc1e2
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-definition.py-cb0070bbebd84b18
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie---main--.py-cd17f3b0e3fd79a5
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-processing.py-ce3138f440d8c94c
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-...legacy-v3-1-0-session-cookie-format.py-cef1979ebf3e72db
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-internal-daemons.py-d1d29b30ea6bb200
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-ui-palette.py-d27ada036b3ea312
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-lexers-http.py-d43f61db404de1f9
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output---init--.py-d6954ebab06681a5
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-internal-daemon-runner.py-d8bc9260b03efbce
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-core.py-d956cec4bb6ab8ea
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-ssl-.py-df9b1a4428adf6d9
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-utils.py-e3d7991b3c62c306
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-manager-tasks-plugins.py-e4bde2a4a26a741d
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-dicts.py-e50f689783195c26
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-status.py-ed43eaeb707765b9
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-config.py-f28a8c7da66f5350
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-cli-nested-json-parse.py-f2eaf5c2530a97a6
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-utils.py-fcf70a1f5cc1cd06
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 CONTAINS SPDXRef-File-httpie-output-streams.py-febb93cd71476f20
+Relationship: SPDXRef-Package-python-pip-01e9e0c52656709e DEPENDENCY_OF SPDXRef-Package-python-httpie-c583b282527a5ac4
 Relationship: SPDXRef-Package-python-charset-normalizer-0dd0fc9d1be3b43d DEPENDENCY_OF SPDXRef-Package-python-requests-3665a2447e6d066e
 Relationship: SPDXRef-Package-python-urllib3-25c84134366d5510 DEPENDENCY_OF SPDXRef-Package-python-requests-3665a2447e6d066e
 Relationship: SPDXRef-Package-python-certifi-2873545629773c9e DEPENDENCY_OF SPDXRef-Package-python-requests-3665a2447e6d066e
@@ -4265,8 +4265,8 @@ Relationship: SPDXRef-Package-python-more-itertools-8b9d18de2666e677 DEPENDENCY_
 Relationship: SPDXRef-Package-python-idna-aec373c8d0bf59f3 DEPENDENCY_OF SPDXRef-Package-python-requests-3665a2447e6d066e
 Relationship: SPDXRef-Package-python-autocommand-bc87ccb8bcbef398 DEPENDENCY_OF SPDXRef-Package-python-jaraco-text-1debc3d50d7c04cd
 Relationship: SPDXRef-Package-python-inflect-d69a146aad393afb DEPENDENCY_OF SPDXRef-Package-python-jaraco-text-1debc3d50d7c04cd
-Relationship: SPDXRef-Package-python-wheel-d8134aaedef58eda DEPENDENCY_OF SPDXRef-Package-python-httpie-7dd5511adb1bf45f
-Relationship: SPDXRef-Package-python-setuptools-db1896fcc9a0b97c DEPENDENCY_OF SPDXRef-Package-python-httpie-7dd5511adb1bf45f
+Relationship: SPDXRef-Package-python-wheel-d8134aaedef58eda DEPENDENCY_OF SPDXRef-Package-python-httpie-c583b282527a5ac4
+Relationship: SPDXRef-Package-python-setuptools-db1896fcc9a0b97c DEPENDENCY_OF SPDXRef-Package-python-httpie-c583b282527a5ac4
 Relationship: SPDXRef-Package-python-typing-extensions-e816d4e5a6b54ed2 DEPENDENCY_OF SPDXRef-Package-python-rich-14090db1722adaf9
 Relationship: SPDXRef-Package-python-typing-extensions-e816d4e5a6b54ed2 DEPENDENCY_OF SPDXRef-Package-python-inflect-d69a146aad393afb
 Relationship: SPDXRef-Package-python-pip-01e9e0c52656709e OTHER SPDXRef-File-...pip-24.3.1.dist-info-top-level.txt-07f072f71aa7c77a
@@ -4383,14 +4383,6 @@ Relationship: SPDXRef-Package-github-action-actions-checkout-7a51f0fcbdf33a3d OT
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
 Relationship: SPDXRef-Package-github-action-actions-setup-python-7dc0c3319599a131 OTHER SPDXRef-File-.github-workflows-benchmark.yml-c59585e498acb0a3
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f OTHER SPDXRef-File-...httpie-3.2.3.dist-info-top-level.txt-16d4b175c2fa0719
-RelationshipComment: evident-by: indicates the package's existence is evident by the given file
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f OTHER SPDXRef-File-...httpie-3.2.3.dist-info-direct-url.json-669ab31e44242247
-RelationshipComment: evident-by: indicates the package's existence is evident by the given file
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f OTHER SPDXRef-File-...httpie-3.2.3.dist-info-METADATA-6eca1bcdb46c8874
-RelationshipComment: evident-by: indicates the package's existence is evident by the given file
-Relationship: SPDXRef-Package-python-httpie-7dd5511adb1bf45f OTHER SPDXRef-File-...httpie-3.2.3.dist-info-RECORD-e05c45ba44c3bcf2
-RelationshipComment: evident-by: indicates the package's existence is evident by the given file
 Relationship: SPDXRef-Package-github-action-actions-setup-python-7f2010fb42d78e4e OTHER SPDXRef-File-.github-workflows-release-pypi.yml-cb9e060c55d4ca0d
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
 Relationship: SPDXRef-Package-python-importlib-metadata-803bedeb6c381eb3 OTHER SPDXRef-File-...top-level.txt-5cd9b367557e2630
@@ -4460,6 +4452,14 @@ RelationshipComment: evident-by: indicates the package's existence is evident by
 Relationship: SPDXRef-Package-github-action-mislav-bump-homebrew-formula-action-c34a2e54fb038725 OTHER SPDXRef-File-.github-workflows-release-brew.yml-bd522b79a3a2e728
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
 Relationship: SPDXRef-Package-dotnet-Simple-Launcher-c3af5830d59f758d OTHER SPDXRef-File-...pip--vendor-distlib-w64.exe-e6248998dfb00130
+RelationshipComment: evident-by: indicates the package's existence is evident by the given file
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 OTHER SPDXRef-File-...httpie-3.2.3.dist-info-top-level.txt-16d4b175c2fa0719
+RelationshipComment: evident-by: indicates the package's existence is evident by the given file
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 OTHER SPDXRef-File-...httpie-3.2.3.dist-info-direct-url.json-669ab31e44242247
+RelationshipComment: evident-by: indicates the package's existence is evident by the given file
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 OTHER SPDXRef-File-...httpie-3.2.3.dist-info-METADATA-6eca1bcdb46c8874
+RelationshipComment: evident-by: indicates the package's existence is evident by the given file
+Relationship: SPDXRef-Package-python-httpie-c583b282527a5ac4 OTHER SPDXRef-File-...httpie-3.2.3.dist-info-RECORD-e05c45ba44c3bcf2
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
 Relationship: SPDXRef-Package-github-action-actions-ecosystem-action-remove-labels-ca5b2893689b924f OTHER SPDXRef-File-.github-workflows-benchmark.yml-c59585e498acb0a3
 RelationshipComment: evident-by: indicates the package's existence is evident by the given file
@@ -4564,7 +4564,7 @@ Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Packa
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-certifi-2873545629773c9e
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-charset-normalizer-0dd0fc9d1be3b43d
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-defusedxml-7a34a2f75e5c9c58
-Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-httpie-7dd5511adb1bf45f
+Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-httpie-c583b282527a5ac4
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-httpie-b5a193b35cdfaa9c
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-idna-aec373c8d0bf59f3
 Relationship: SPDXRef-DocumentRoot-Directory-.-httpie-cli CONTAINS SPDXRef-Package-python-importlib-metadata-803bedeb6c381eb3

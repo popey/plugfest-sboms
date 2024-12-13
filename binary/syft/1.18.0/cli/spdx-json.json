@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "./httpie/cli",
-  "documentNamespace": "https://anchore.com/syft/dir/httpie/cli-af6c2c77-2173-467f-bf7c-5f1a12f7f236",
+  "documentNamespace": "https://anchore.com/syft/dir/httpie/cli-2384fd6b-206a-4c76-8e24-08023ad5842a",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-13T12:11:56Z"
+    "created": "2024-12-13T13:23:21Z"
   },
   "packages": [
     {
@@ -1951,7 +1951,7 @@
     },
     {
       "name": "httpie",
-      "SPDXID": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "SPDXID": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "versionInfo": "3.2.3",
       "supplier": "Person: Jakub Roztocil (jakub@roztocil.co)",
       "originator": "Person: Jakub Roztocil (jakub@roztocil.co)",
@@ -8481,11 +8481,11 @@
       "checksums": [
         {
           "algorithm": "SHA1",
-          "checksumValue": "2f73b0ec461058c7ffc4e8e9c67f6b98376fb7ba"
+          "checksumValue": "5fefd58c35839d0cebba50c4080b8d2946f273f7"
         },
         {
           "algorithm": "SHA256",
-          "checksumValue": "e3dc467890976148b8e626536a92eebe054d9109a93b355dbde81437693f01ec"
+          "checksumValue": "5311fe334b80c371ed691d51383dd04f77890cbbca0fe6c30cbeabd78f17bcab"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -12174,398 +12174,398 @@
   ],
   "relationships": [
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-formatters---init--.py-0114659eec589b6c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-tasks-export-args.py-015f9554867b68a7",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie---init--.py-037a8c3822f60b4d",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-options.py-05110fde4e20b5b5",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli---init--.py-06ccd256853b890e",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-constants.py-09987e1237abd13f",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager---init--.py-0b4bbd4e67a071a4",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-formatters-json.py-0ef6066c5a88173c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-lexers-common.py-0fe5ecb65e0fb7e7",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-writer.py-101bd32ec2c2fa91",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-core.py-1202c52e4c40bd2c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-client.py-160d30fa38bb0b49",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-plugins-builtin.py-182486cbb92ea092",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-compat.py-1b29299ce3facfaf",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-requestitems.py-1d167c72c142cf6c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-internal---init--.py-1e7604e4f772c51e",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-rich-palette.py-1efa25d9ca706e3c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-lexers---init--.py-26501c7f5ca32b40",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-uploads.py-2820dbfdb0e2bd46",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cookies.py-2af41dc7c492dae1",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-downloads.py-2f22d8a6c38800ed",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-context.py-3276417199e00fd5",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-cli.py-347775b9af27d018",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-legacy---init--.py-36e41f7cb064aeca",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-utils.py-37b030d1a0c71049",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-nested-json---init--.py-3a6499b27b609070",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-rich-progress.py-4515fa2e09c96ba4",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-tasks-sessions.py-50238b291978d667",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-plugins-registry.py-5420bc9ea815cb8d",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-plugins-base.py-5886a4bfeb863675",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-lexers-json.py-619df15ca4656a65",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-nested-json-errors.py-6357f94a39c33d52",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-man-pages.py-669a955e4e117781",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-encoding.py-672ec0d8f04a162c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-plugins-manager.py-69254cc91fff26f4",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-models.py-75e3702ffd6620cd",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-...legacy-v3-2-0-session-header-format.py-779260a123ed7adc",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-internal---build-channel--.py-7bbda1ab3f8332a4",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-rich-help.py-7bf857d1c3410965",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-compat.py-7d9936d604437b2f",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-lexers-metadata.py-81cec91b083ccc49",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-plugins---init--.py-8e274f22d9b3ad49",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-models.py-8f3095ab60a5ba0e",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-adapters.py-934b4ebc898da5a4",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-sessions.py-942c396e133b68b3",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-argparser.py-942e5b940ebef97d",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-formatters-colors.py-97b4103e3df6280b",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-formatters-xml.py-a281d2b97529b4d8",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui---init--.py-a87095fbed871a82",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-internal-update-warnings.py-ad16efd8e806b785",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-rich-utils.py-b1c4dbd8ef00d13a",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-exceptions.py-b5431cd5427c0601",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-argtypes.py-b87b55a76d7e3442",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-tasks---init--.py-b9d21e3fac642237",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-nested-json-interpret.py-bb95fd928bde80b3",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager---main--.py-bc212b809cbe01e7",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-tasks-check-updates.py-bd8450019776c099",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-formatters-headers.py-c098c273cbeaabbd",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-nested-json-tokens.py-c96a1056f1dfc1e2",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-definition.py-cb0070bbebd84b18",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie---main--.py-cd17f3b0e3fd79a5",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-processing.py-ce3138f440d8c94c",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-...legacy-v3-1-0-session-cookie-format.py-cef1979ebf3e72db",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-internal-daemons.py-d1d29b30ea6bb200",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-ui-palette.py-d27ada036b3ea312",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-lexers-http.py-d43f61db404de1f9",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output---init--.py-d6954ebab06681a5",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-internal-daemon-runner.py-d8bc9260b03efbce",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-core.py-d956cec4bb6ab8ea",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-ssl-.py-df9b1a4428adf6d9",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-utils.py-e3d7991b3c62c306",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-manager-tasks-plugins.py-e4bde2a4a26a741d",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-dicts.py-e50f689783195c26",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-status.py-ed43eaeb707765b9",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-config.py-f28a8c7da66f5350",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-cli-nested-json-parse.py-f2eaf5c2530a97a6",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-utils.py-fcf70a1f5cc1cd06",
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relatedSpdxElement": "SPDXRef-File-httpie-output-streams.py-febb93cd71476f20",
       "relationshipType": "CONTAINS"
     },
     {
       "spdxElementId": "SPDXRef-Package-python-pip-01e9e0c52656709e",
-      "relatedSpdxElement": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "relatedSpdxElement": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relationshipType": "DEPENDENCY_OF"
     },
     {
@@ -12650,12 +12650,12 @@
     },
     {
       "spdxElementId": "SPDXRef-Package-python-wheel-d8134aaedef58eda",
-      "relatedSpdxElement": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "relatedSpdxElement": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relationshipType": "DEPENDENCY_OF"
     },
     {
       "spdxElementId": "SPDXRef-Package-python-setuptools-db1896fcc9a0b97c",
-      "relatedSpdxElement": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "relatedSpdxElement": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relationshipType": "DEPENDENCY_OF"
     },
     {
@@ -13011,30 +13011,6 @@
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
     {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
-      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-top-level.txt-16d4b175c2fa0719",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
-      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-direct-url.json-669ab31e44242247",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
-      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-METADATA-6eca1bcdb46c8874",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
-      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-RECORD-e05c45ba44c3bcf2",
-      "relationshipType": "OTHER",
-      "comment": "evident-by: indicates the package's existence is evident by the given file"
-    },
-    {
       "spdxElementId": "SPDXRef-Package-github-action-actions-setup-python-7f2010fb42d78e4e",
       "relatedSpdxElement": "SPDXRef-File-.github-workflows-release-pypi.yml-cb9e060c55d4ca0d",
       "relationshipType": "OTHER",
@@ -13241,6 +13217,30 @@
     {
       "spdxElementId": "SPDXRef-Package-dotnet-Simple-Launcher-c3af5830d59f758d",
       "relatedSpdxElement": "SPDXRef-File-...pip--vendor-distlib-w64.exe-e6248998dfb00130",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
+      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-top-level.txt-16d4b175c2fa0719",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
+      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-direct-url.json-669ab31e44242247",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
+      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-METADATA-6eca1bcdb46c8874",
+      "relationshipType": "OTHER",
+      "comment": "evident-by: indicates the package's existence is evident by the given file"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
+      "relatedSpdxElement": "SPDXRef-File-...httpie-3.2.3.dist-info-RECORD-e05c45ba44c3bcf2",
       "relationshipType": "OTHER",
       "comment": "evident-by: indicates the package's existence is evident by the given file"
     },
@@ -13625,7 +13625,7 @@
     },
     {
       "spdxElementId": "SPDXRef-DocumentRoot-Directory-.-httpie-cli",
-      "relatedSpdxElement": "SPDXRef-Package-python-httpie-7dd5511adb1bf45f",
+      "relatedSpdxElement": "SPDXRef-Package-python-httpie-c583b282527a5ac4",
       "relationshipType": "CONTAINS"
     },
     {

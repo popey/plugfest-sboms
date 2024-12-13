@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "/home/alan/Work/Anchore/plugfest/repos/httpie/cli",
-  "documentNamespace": "https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/httpie/cli-0438e57a-9480-4d77-927c-3b846350049c",
+  "documentNamespace": "https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/httpie/cli-6bcd1a2e-e942-49c7-8a0c-7d15da7252cd",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-13T11:58:20Z"
+    "created": "2024-12-13T13:06:49Z"
   },
   "packages": [
     {

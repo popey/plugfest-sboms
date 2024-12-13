@@ -55,8 +55,8 @@
  MediaType:	 application/vnd.docker.image.rootfs.diff.tar.gzip
 
  Layer:		 11
- Digest:	 sha256:cd9dc44b575233b73676aeeb634787d047eb1290d261b7b92eb33092cdcac5d2
- Size:		 7224077
+ Digest:	 sha256:247a6dab74a67040b72102af7ab570bb2abee7e8932cdc016a8b08b1d9533974
+ Size:		 6615642
  MediaType:	 application/vnd.docker.image.rootfs.diff.tar.gzip
 
  Layer:		 12
@@ -65,13 +65,13 @@
  MediaType:	 application/vnd.docker.image.rootfs.diff.tar.gzip
 
  Layer:		 13
- Digest:	 sha256:411b320820234926965dbeee2e64303178b7f3c69be3f07e5214f402ef9c1e8c
- Size:		 366835971
+ Digest:	 sha256:f8d206b8ad61c2791ae46608ce99807c2ace4ee9a5e6096fe5d29615be355344
+ Size:		 366836025
  MediaType:	 application/vnd.docker.image.rootfs.diff.tar.gzip
 
  Layer:		 14
- Digest:	 sha256:acbb2f346bd389a0696ca94db5f57d94de9c2f7a3deddcd1348e9015a1bb9e07
- Size:		 1080584
+ Digest:	 sha256:b65232874d7182e958a9fe7a18ec6c6d34156bad965e1288bd2d7f96b4fffb17
+ Size:		 1080585
  MediaType:	 application/vnd.docker.image.rootfs.diff.tar.gzip
 
 [1to2]

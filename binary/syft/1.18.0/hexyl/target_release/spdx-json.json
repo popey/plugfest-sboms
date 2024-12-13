@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "./sharkdp/hexyl",
-  "documentNamespace": "https://anchore.com/syft/dir/sharkdp/hexyl-cb5e4779-b01f-4e86-b9c3-fe21c5923dc2",
+  "documentNamespace": "https://anchore.com/syft/dir/sharkdp/hexyl-36c7bc6e-3a03-478a-9023-6e8b2b4d5443",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-13T12:15:52Z"
+    "created": "2024-12-13T13:27:23Z"
   },
   "packages": [
     {

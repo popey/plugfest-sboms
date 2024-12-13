@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.6",
-  "serialNumber": "urn:uuid:b1f7de71-085b-4f94-8c07-62d00cd5f539",
+  "serialNumber": "urn:uuid:95769e27-cd8e-41b7-8580-0368fd5adf0d",
   "version": 1,
   "metadata": {
-    "timestamp": "2024-12-13T13:12:54+01:00",
+    "timestamp": "2024-12-13T14:24:21+01:00",
     "tools": {
       "components": [
         {
@@ -285,7 +285,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "0295cdd0aa44b9dfe51ca2681f9c892d83f24a8d"
+              "content": "e06ae8586bb5b94c08c15c6e6e4b75f7903cf001"
             }
           ],
           "type": "build-meta"
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "bom-ref": "pkg:maven/minecolonies/minecolonies@1.20.1-0.0.1-LOCAL-alpha?package-id=1d1dc957798eaa78",
+      "bom-ref": "pkg:maven/minecolonies/minecolonies@1.20.1-0.0.1-LOCAL-alpha?package-id=7794401925c5729e",
       "type": "library",
       "name": "minecolonies",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
@@ -483,7 +483,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+              "content": "e6a8226216ec3b1922ad2a69a060e33111685692"
             }
           ],
           "type": "build-meta"
@@ -533,7 +533,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "98b92ede3f6934d77316dd2901c178bdf8934ffe"
+              "content": "752bcab1bd0c51ad3428fe2b87d4f0e54e47c650"
             }
           ],
           "type": "build-meta"
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "bom-ref": "pkg:maven/minecolonies/minecolonies@1.20.1-0.0.1-LOCAL-alpha-slim?package-id=1b1ca31987af0874",
+      "bom-ref": "pkg:maven/minecolonies/minecolonies@1.20.1-0.0.1-LOCAL-alpha-slim?package-id=d8e6db321d348d1d",
       "type": "library",
       "name": "minecolonies",
       "version": "1.20.1-0.0.1-LOCAL-alpha-slim",
@@ -579,7 +579,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+              "content": "5372c62fa132a25197ed003cd9033586c5d37bfd"
             }
           ],
           "type": "build-meta"
@@ -629,7 +629,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "575f953f3bf019836c65e4cd49959c6b66c756d5"
+              "content": "8cbdaed965794abc50e242e965573b35268ff606"
             }
           ],
           "type": "build-meta"
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "bom-ref": "pkg:maven/output/output@1.20.1-0.0.1-LOCAL-alpha?package-id=0aca25c3d9c710f0",
+      "bom-ref": "pkg:maven/output/output@1.20.1-0.0.1-LOCAL-alpha?package-id=9829bd938836bcc7",
       "type": "library",
       "name": "output",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
@@ -675,7 +675,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+              "content": "5372c62fa132a25197ed003cd9033586c5d37bfd"
             }
           ],
           "type": "build-meta"
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "bom-ref": "pkg:maven/output/output@1.20.1-0.0.1-LOCAL-alpha?package-id=8ef4fb771d1e76fc",
+      "bom-ref": "pkg:maven/output/output@1.20.1-0.0.1-LOCAL-alpha?package-id=32b1dbdba246a43d",
       "type": "library",
       "name": "output",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
@@ -725,7 +725,7 @@
           "hashes": [
             {
               "alg": "SHA-1",
-              "content": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+              "content": "e6a8226216ec3b1922ad2a69a060e33111685692"
             }
           ],
           "type": "build-meta"

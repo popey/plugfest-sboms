@@ -53782,7 +53782,7 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "0295cdd0aa44b9dfe51ca2681f9c892d83f24a8d"
+            "value": "e06ae8586bb5b94c08c15c6e6e4b75f7903cf001"
           }
         ]
       }
@@ -53930,7 +53930,7 @@
       "purl": "pkg:github/ldtteam/operapublicacreator@main#.github/workflows/gradle.publish.yaml"
     },
     {
-      "id": "1d1dc957798eaa78",
+      "id": "7794401925c5729e",
       "name": "minecolonies",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
       "type": "java-archive",
@@ -53996,7 +53996,7 @@
             },
             {
               "key": "Implementation-Timestamp",
-              "value": "2024-12-13T13:05:32+0100"
+              "value": "2024-12-13T14:14:47+0100"
             },
             {
               "key": "Automatic-Module-Name",
@@ -54007,7 +54007,7 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+            "value": "e6a8226216ec3b1922ad2a69a060e33111685692"
           }
         ]
       }
@@ -54050,13 +54050,13 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "98b92ede3f6934d77316dd2901c178bdf8934ffe"
+            "value": "752bcab1bd0c51ad3428fe2b87d4f0e54e47c650"
           }
         ]
       }
     },
     {
-      "id": "1b1ca31987af0874",
+      "id": "d8e6db321d348d1d",
       "name": "minecolonies",
       "version": "1.20.1-0.0.1-LOCAL-alpha-slim",
       "type": "java-archive",
@@ -54122,7 +54122,7 @@
             },
             {
               "key": "Implementation-Timestamp",
-              "value": "2024-12-13T13:05:32+0100"
+              "value": "2024-12-13T14:14:47+0100"
             },
             {
               "key": "Automatic-Module-Name",
@@ -54133,7 +54133,7 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+            "value": "5372c62fa132a25197ed003cd9033586c5d37bfd"
           }
         ]
       }
@@ -54176,13 +54176,13 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "575f953f3bf019836c65e4cd49959c6b66c756d5"
+            "value": "8cbdaed965794abc50e242e965573b35268ff606"
           }
         ]
       }
     },
     {
-      "id": "0aca25c3d9c710f0",
+      "id": "9829bd938836bcc7",
       "name": "output",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
       "type": "java-archive",
@@ -54248,7 +54248,7 @@
             },
             {
               "key": "Implementation-Timestamp",
-              "value": "2024-12-13T13:05:32+0100"
+              "value": "2024-12-13T14:14:47+0100"
             },
             {
               "key": "Automatic-Module-Name",
@@ -54259,13 +54259,13 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+            "value": "5372c62fa132a25197ed003cd9033586c5d37bfd"
           }
         ]
       }
     },
     {
-      "id": "8ef4fb771d1e76fc",
+      "id": "32b1dbdba246a43d",
       "name": "output",
       "version": "1.20.1-0.0.1-LOCAL-alpha",
       "type": "java-archive",
@@ -54331,7 +54331,7 @@
             },
             {
               "key": "Implementation-Timestamp",
-              "value": "2024-12-13T13:05:32+0100"
+              "value": "2024-12-13T14:14:47+0100"
             },
             {
               "key": "Automatic-Module-Name",
@@ -54342,7 +54342,7 @@
         "digest": [
           {
             "algorithm": "sha1",
-            "value": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+            "value": "e6a8226216ec3b1922ad2a69a060e33111685692"
           }
         ]
       }
@@ -54350,32 +54350,16 @@
   ],
   "artifactRelationships": [
     {
-      "parent": "0aca25c3d9c710f0",
-      "child": "9ef18a5049b7cfed",
-      "type": "evident-by",
-      "metadata": {
-        "kind": "primary"
-      }
-    },
-    {
-      "parent": "1b1ca31987af0874",
-      "child": "f0e86268990229af",
-      "type": "evident-by",
-      "metadata": {
-        "kind": "primary"
-      }
-    },
-    {
-      "parent": "1d1dc957798eaa78",
-      "child": "1e38448b80dba881",
-      "type": "evident-by",
-      "metadata": {
-        "kind": "primary"
-      }
-    },
-    {
       "parent": "2784dfd778b28c40",
       "child": "27f466d8fb81863e",
+      "type": "evident-by",
+      "metadata": {
+        "kind": "primary"
+      }
+    },
+    {
+      "parent": "32b1dbdba246a43d",
+      "child": "a64c23565cbc0177",
       "type": "evident-by",
       "metadata": {
         "kind": "primary"
@@ -54392,6 +54376,14 @@
     {
       "parent": "4cfbeb0ddf491666",
       "child": "618db56e9d57bab7",
+      "type": "evident-by",
+      "metadata": {
+        "kind": "primary"
+      }
+    },
+    {
+      "parent": "7794401925c5729e",
+      "child": "1e38448b80dba881",
       "type": "evident-by",
       "metadata": {
         "kind": "primary"
@@ -54422,16 +54414,16 @@
       }
     },
     {
-      "parent": "8ef4fb771d1e76fc",
-      "child": "a64c23565cbc0177",
+      "parent": "93943d5d84b47a49",
+      "child": "2f60db276a7a09af",
       "type": "evident-by",
       "metadata": {
         "kind": "primary"
       }
     },
     {
-      "parent": "93943d5d84b47a49",
-      "child": "2f60db276a7a09af",
+      "parent": "9829bd938836bcc7",
+      "child": "9ef18a5049b7cfed",
       "type": "evident-by",
       "metadata": {
         "kind": "primary"
@@ -54447,22 +54439,12 @@
     },
     {
       "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
-      "child": "0aca25c3d9c710f0",
-      "type": "contains"
-    },
-    {
-      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
-      "child": "1b1ca31987af0874",
-      "type": "contains"
-    },
-    {
-      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
-      "child": "1d1dc957798eaa78",
-      "type": "contains"
-    },
-    {
-      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
       "child": "2784dfd778b28c40",
+      "type": "contains"
+    },
+    {
+      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
+      "child": "32b1dbdba246a43d",
       "type": "contains"
     },
     {
@@ -54473,6 +54455,11 @@
     {
       "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
       "child": "4cfbeb0ddf491666",
+      "type": "contains"
+    },
+    {
+      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
+      "child": "7794401925c5729e",
       "type": "contains"
     },
     {
@@ -54492,12 +54479,12 @@
     },
     {
       "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
-      "child": "8ef4fb771d1e76fc",
+      "child": "93943d5d84b47a49",
       "type": "contains"
     },
     {
       "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
-      "child": "93943d5d84b47a49",
+      "child": "9829bd938836bcc7",
       "type": "contains"
     },
     {
@@ -54517,6 +54504,11 @@
     },
     {
       "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
+      "child": "d8e6db321d348d1d",
+      "type": "contains"
+    },
+    {
+      "parent": "b0276e4300076231d497d9966b8dcb70144592c841bf09c3ad54c3688942e635",
       "child": "e88364ec3fa76d61",
       "type": "contains"
     },
@@ -54531,6 +54523,14 @@
     {
       "parent": "ce03eec74fa4bd6a",
       "child": "27f466d8fb81863e",
+      "type": "evident-by",
+      "metadata": {
+        "kind": "primary"
+      }
+    },
+    {
+      "parent": "d8e6db321d348d1d",
+      "child": "f0e86268990229af",
       "type": "evident-by",
       "metadata": {
         "kind": "primary"
@@ -54700,11 +54700,11 @@
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "0295cdd0aa44b9dfe51ca2681f9c892d83f24a8d"
+          "value": "e06ae8586bb5b94c08c15c6e6e4b75f7903cf001"
         },
         {
           "algorithm": "sha256",
-          "value": "b4ab1b94dd37acd797bf087cdb2b9a8422186d12e64875fefa13ab1ed228c917"
+          "value": "8cc37233963481c50a1c6af93d0f5e3965191eeb7371866e06da5790c2fa2467"
         }
       ]
     },
@@ -54724,11 +54724,11 @@
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "98b92ede3f6934d77316dd2901c178bdf8934ffe"
+          "value": "752bcab1bd0c51ad3428fe2b87d4f0e54e47c650"
         },
         {
           "algorithm": "sha256",
-          "value": "5e475c525bd7cd3e728998237b634cfd2dfcea97b7ef780fca0aec3fa56a9908"
+          "value": "1f8044fb7da8b1329880ad51513e17e32378cd383a4fb43d2c37eab19ddb83e4"
         }
       ]
     },
@@ -54743,16 +54743,16 @@
         "userID": 1000,
         "groupID": 1000,
         "mimeType": "application/jar",
-        "size": 63980143
+        "size": 63980141
       },
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "value": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         },
         {
           "algorithm": "sha256",
-          "value": "29fd3338b0d874d3fef37123743f9b6799f4ebdab5fe205679913f7d296b52fe"
+          "value": "fea6e858d706709129aa66902ff412c4ab82dacf2d2be2621832f38b25724678"
         }
       ]
     },
@@ -54772,11 +54772,11 @@
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "575f953f3bf019836c65e4cd49959c6b66c756d5"
+          "value": "8cbdaed965794abc50e242e965573b35268ff606"
         },
         {
           "algorithm": "sha256",
-          "value": "b34eeb3d59b451233ee7a74919d060ccbc00d408c258908772c64cab74819853"
+          "value": "35e4531c9b1b168740ad9cd2b95c2af722c0a408d12f7bf71ae963a851a68203"
         }
       ]
     },
@@ -54791,16 +54791,16 @@
         "userID": 1000,
         "groupID": 1000,
         "mimeType": "application/jar",
-        "size": 63980143
+        "size": 63980141
       },
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "value": "e6a8226216ec3b1922ad2a69a060e33111685692"
         },
         {
           "algorithm": "sha256",
-          "value": "122fb194f640ddcd439f40733e5300a129b11eb4c34ea8360be23e2d52febad0"
+          "value": "b7d9b28cc80a8634ab1660dc6e79dc1692aaa7905f43111854f29d209385dfd3"
         }
       ]
     },
@@ -54815,16 +54815,16 @@
         "userID": 1000,
         "groupID": 1000,
         "mimeType": "application/jar",
-        "size": 63980143
+        "size": 63980141
       },
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "ac194a4076bc0860fb3d61e0a672bcebcacbb740"
+          "value": "5372c62fa132a25197ed003cd9033586c5d37bfd"
         },
         {
           "algorithm": "sha256",
-          "value": "29fd3338b0d874d3fef37123743f9b6799f4ebdab5fe205679913f7d296b52fe"
+          "value": "fea6e858d706709129aa66902ff412c4ab82dacf2d2be2621832f38b25724678"
         }
       ]
     },
@@ -54839,16 +54839,16 @@
         "userID": 1000,
         "groupID": 1000,
         "mimeType": "application/jar",
-        "size": 63980143
+        "size": 63980141
       },
       "digests": [
         {
           "algorithm": "sha1",
-          "value": "2fa0720f6d55fd7c455c0ccf09e4944e37a49101"
+          "value": "e6a8226216ec3b1922ad2a69a060e33111685692"
         },
         {
           "algorithm": "sha256",
-          "value": "122fb194f640ddcd439f40733e5300a129b11eb4c34ea8360be23e2d52febad0"
+          "value": "b7d9b28cc80a8634ab1660dc6e79dc1692aaa7905f43111854f29d209385dfd3"
         }
       ]
     },
