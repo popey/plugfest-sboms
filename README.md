@@ -52,7 +52,9 @@ Below is a snippet, showing the side-by-side `diff` of an un-enriched vs enriche
 (Spaces truncated for readabiliy.)
 
 ```bash
-$ diff -y ./binary/syft/1.18.0/dependency-track/dependencytrackapiserver/cyclonedx-json.json ./binary/syft/1.18.0/dependency-track/dependencytrackapiserver/cyclonedx-json_enriched.json | grep '>' | head -n 15 | awk '{$1=$1};1'
+$ diff -y ./binary/syft/1.18.0/dependency-track/dependencytrackapiserver/cyclonedx-json.json \
+          ./binary/syft/1.18.0/dependency-track/dependencytrackapiserver/cyclonedx-json_enriched.json \
+          | grep '>' | head -n 15 | awk '{$1=$1};1'
 > {
 > "license": {
 > "name": "Apache 2",
