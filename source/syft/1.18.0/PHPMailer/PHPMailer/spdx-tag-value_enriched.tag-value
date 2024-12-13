@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: /home/alan/Work/Anchore/plugfest/repos/PHPMailer/PHPMailer
-DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/PHPMailer/PHPMailer-87e6c955-3616-4464-a6b0-1dc2e1c6f7be
+DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/PHPMailer/PHPMailer-411d618e-8688-42d1-8cb0-d584535d8dcd
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-09T22:00:30Z
+Created: 2024-12-13T12:00:20Z
 
 ##### Unpackaged files
 

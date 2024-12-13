@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: /home/alan/Work/Anchore/plugfest/repos/httpie/cli
-DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/httpie/cli-d0fe6720-e06a-49a9-be46-88b8747a0eae
+DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/httpie/cli-6c2f9871-945d-4cbc-b586-547647178521
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-09T22:01:18Z
+Created: 2024-12-13T11:58:23Z
 
 ##### Unpackaged files
 

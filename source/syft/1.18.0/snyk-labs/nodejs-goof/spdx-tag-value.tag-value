@@ -2,11 +2,11 @@ SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-DOCUMENT
 DocumentName: /home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof
-DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof-16fc1141-ac60-4a49-a44f-3ccaf88062f8
+DocumentNamespace: https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof-038c3be5-0681-4213-ad7a-6206cbb8671b
 LicenseListVersion: 3.25
 Creator: Organization: Anchore, Inc
 Creator: Tool: syft-1.18.0
-Created: 2024-12-09T22:05:18Z
+Created: 2024-12-13T12:02:43Z
 
 ##### Unpackaged files
 

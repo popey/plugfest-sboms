@@ -3,14 +3,14 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "/home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof",
-  "documentNamespace": "https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof-ba44b65e-19ce-4eed-803e-d08888bd6baa",
+  "documentNamespace": "https://anchore.com/syft/dir/home/alan/Work/Anchore/plugfest/repos/snyk-labs/nodejs-goof-28878a3b-5021-4300-972f-e7e1c82f43f3",
   "creationInfo": {
     "licenseListVersion": "3.25",
     "creators": [
       "Organization: Anchore, Inc",
       "Tool: syft-1.18.0"
     ],
-    "created": "2024-12-09T22:05:05Z"
+    "created": "2024-12-13T12:02:28Z"
   },
   "packages": [
     {
